@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZ7+3chyan3gYLQcXtqAD/nHr8pRbJlqDvBMaMj0VU3/ltDscr4JOyzzKpQN8Rt8HXqBOUKcBtRMWOTBXJBx+w==",
+  "success": true,
+  "projectFilePath": "/Users/jovanni/Projects/Red&Abe Marketplace/Red&Abe Marketplace/Red&Abe Marketplace.csproj",
+  "expectedPackageFiles": [
+    "/Users/jovanni/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.18/microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "/Users/jovanni/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.18/microsoft.netcore.app.host.osx-x64.6.0.18.nupkg.sha512",
+    "/Users/jovanni/.nuget/packages/microsoft.netcore.app.ref/6.0.18/microsoft.netcore.app.ref.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
